@@ -11,6 +11,9 @@ class Program
             return;
         }
 
+        Console.WriteLine("자동 커밋 테스트 중입니다!");
+
+
         string commitMessage = args[0];
 
         // 1. 변경 사항 확인 (git diff)
