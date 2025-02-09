@@ -1,0 +1,11 @@
+D:\GitAutoManager\bin\Debug\netcoreapp3.1\GitAutoManager.exe
+D:\GitAutoManager\bin\Debug\netcoreapp3.1\GitAutoManager.deps.json
+D:\GitAutoManager\bin\Debug\netcoreapp3.1\GitAutoManager.runtimeconfig.json
+D:\GitAutoManager\bin\Debug\netcoreapp3.1\GitAutoManager.runtimeconfig.dev.json
+D:\GitAutoManager\bin\Debug\netcoreapp3.1\GitAutoManager.dll
+D:\GitAutoManager\bin\Debug\netcoreapp3.1\GitAutoManager.pdb
+D:\GitAutoManager\obj\Debug\netcoreapp3.1\GitAutoManager.csprojAssemblyReference.cache
+D:\GitAutoManager\obj\Debug\netcoreapp3.1\GitAutoManager.AssemblyInfoInputs.cache
+D:\GitAutoManager\obj\Debug\netcoreapp3.1\GitAutoManager.AssemblyInfo.cs
+D:\GitAutoManager\obj\Debug\netcoreapp3.1\GitAutoManager.dll
+D:\GitAutoManager\obj\Debug\netcoreapp3.1\GitAutoManager.pdb
