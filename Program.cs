@@ -11,7 +11,7 @@ class Program
             return;
         }
 
-        Console.WriteLine("자동 커밋 테스트 중입니다!");
+        // Console.WriteLine("자동 커밋 테스트 중입니다!");
 
 
         string commitMessage = args[0];
@@ -46,12 +46,12 @@ class Program
     {
         ProcessStartInfo startInfo = new ProcessStartInfo
         {
-            FileName = "git",
-            Arguments = command,
-            RedirectStandardOutput = true,
-            RedirectStandardError = true,
-            UseShellExecute = false,
-            CreateNoWindow = true
+            FileName = "git", // 실행 할 프로그램
+            Arguments = command, // 실행 할 명령어
+            RedirectStandardOutput = true, // git 명령어의 출력 결과 가져오기
+            RedirectStandardError = true, // 오류 메시지 가져오기
+            UseShellExecute = false, // 쉘 사용 않고 직접 실행
+            CreateNoWindow = true // 별도 콘솔창 x 
         };
 
         using (Process process = new Process { StartInfo = startInfo })
